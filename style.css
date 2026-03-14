@@ -397,7 +397,7 @@ nav{
 .contact-menu a.btn{
   background: var(--gold) !important;
   color: #111 !important;
-  border: none !important;
+  border: 2px solid #111  !important;
 }
 
 .card h3{
